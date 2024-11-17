@@ -2,6 +2,9 @@
 
 My solutions for Supervised Machine Learning Regression and Classification course taught by Andrew N.g. on Coursera.
 
+<!-- Add piture of the course -->
+
+
 This course contains three weeks:
 
 > * Week1
@@ -10,5 +13,10 @@ This course contains three weeks:
 
 ## Quiz
 
+<!-- add all topics -->
 
 ## Assignment
+
+<!-- Describe both assignemnets-->
+
+<!-- ## Certificate -->
